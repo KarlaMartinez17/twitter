@@ -9,3 +9,18 @@ body{
     background-color: aqua;
     margin: 0%;
 }
+
+.text-area{
+    border: 1px double blue;
+    width: 20%;
+    background-color: aliceblue;
+}
+.text-area button{
+    display: block;
+}
+
+#print-text{
+    background-color: antiquewhite;
+    padding: 2em;
+    width: 20%;
+}
